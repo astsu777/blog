@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Astsu777 Blog</title>
-    <link>https://astsu777.github.io/blog/series/</link>
+    <link>https://test.magvice.lan/blog/public/series/</link>
     <description>Recent content in Series on Astsu777 Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://astsu777.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://test.magvice.lan/blog/public/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://astsu777.github.io/blog/</loc>
+    <loc>https://test.magvice.lan/blog/public/</loc>
     <lastmod>2024-11-28T16:43:40+01:00</lastmod>
   </url><url>
-    <loc>https://astsu777.github.io/blog/posts/first/</loc>
+    <loc>https://test.magvice.lan/blog/public/posts/first/</loc>
     <lastmod>2024-11-28T16:43:40+01:00</lastmod>
   </url><url>
-    <loc>https://astsu777.github.io/blog/posts/</loc>
+    <loc>https://test.magvice.lan/blog/public/posts/</loc>
     <lastmod>2024-11-28T16:43:40+01:00</lastmod>
   </url><url>
-    <loc>https://astsu777.github.io/blog/authors/</loc>
+    <loc>https://test.magvice.lan/blog/public/authors/</loc>
   </url><url>
-    <loc>https://astsu777.github.io/blog/categories/</loc>
+    <loc>https://test.magvice.lan/blog/public/categories/</loc>
   </url><url>
-    <loc>https://astsu777.github.io/blog/series/</loc>
+    <loc>https://test.magvice.lan/blog/public/series/</loc>
   </url><url>
-    <loc>https://astsu777.github.io/blog/tags/</loc>
+    <loc>https://test.magvice.lan/blog/public/tags/</loc>
   </url>
 </urlset>

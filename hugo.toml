@@ -1,4 +1,4 @@
-baseurl = "https://blog.magvice.lan/blog"
+baseurl = "https://test.magvice.lan/blog/public"
 title = "Astsu777 Blog"
 theme = "hugo-coder"
 languagecode = "en"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astsu777 Blog</title>
-    <link>https://astsu777.github.io/blog/</link>
+    <link>https://astsu777.github.io/</link>
     <description>Recent content on Astsu777 Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Nov 2024 16:43:40 +0100</lastBuildDate>
-    <atom:link href="https://astsu777.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astsu777.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Blog</title>
-      <link>https://astsu777.github.io/blog/posts/first/</link>
+      <link>https://astsu777.github.io/posts/first/</link>
       <pubDate>Thu, 28 Nov 2024 16:43:40 +0100</pubDate>
-      <guid>https://astsu777.github.io/blog/posts/first/</guid>
+      <guid>https://astsu777.github.io/posts/first/</guid>
       <description>&lt;p&gt;Hello friend, this is my new blog!&lt;/p&gt;</description>
     </item>
   </channel>

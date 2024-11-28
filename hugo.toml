@@ -1,4 +1,4 @@
-baseurl = "https://astsu777.github.io/blog"
+baseurl = "https://blog.magvice.lan/blog"
 title = "Astsu777 Blog"
 theme = "hugo-coder"
 languagecode = "en"

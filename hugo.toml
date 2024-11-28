@@ -60,12 +60,12 @@ style = "github-dark"
   url = "https://twitter.com/astsu777/"
 [[params.social]]
   name = "Instagram"
-  icon = "fa-brands fa-x-instagram fa-2x"
+  icon = "fa-brands fa-instagram fa-2x"
   weight = 4
   url = "https://www.instagram.com/astsu777/"
 [[params.social]]
   name = "TikTok"
-  icon = "fa-brands fa-x-tiktok fa-2x"
+  icon = "fa-brands fa-tiktok fa-2x"
   weight = 5
   url = "https://www.tiktok.com/@astsu777"
 

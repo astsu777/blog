@@ -19,7 +19,7 @@ style = "github-dark"
   description = "My personal space"
   keywords = "blog,personal,security,cybersecurity,network,system,server"
   # avatarurl = "images/avatar.jpg"
-  gravatar = "gaetan_934@yahoo.fr"
+  gravatar = "gaetan@ictpourtous.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
